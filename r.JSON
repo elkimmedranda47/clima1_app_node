@@ -1,0 +1,71 @@
+{
+    "results": [{
+        "address_components": [{
+                "long_name": "Buenaventura",
+                "short_name": "Buenaventura",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Buenaventura",
+                "short_name": "Buenaventura",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Valle del Cauca",
+                "short_name": "Valle del Cauca",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Colombia",
+                "short_name": "CO",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "formatted_address": "Buenaventura, Valle del Cauca, Colombia",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 3.896906,
+                    "lng": -76.9655841
+                },
+                "southwest": {
+                    "lat": 3.854419,
+                    "lng": -77.08082
+                }
+            },
+            "location": {
+                "lat": 3.8830471,
+                "lng": -77.01972119999999
+            },
+            "location_type": "APPROXIMATE",
+            "viewport": {
+                "northeast": {
+                    "lat": 3.896906,
+                    "lng": -76.9655841
+                },
+                "southwest": {
+                    "lat": 3.854419,
+                    "lng": -77.08082
+                }
+            }
+        },
+        "place_id": "ChIJ64bu03AkN44RaisfaQGx46M",
+        "types": [
+            "locality",
+            "political"
+        ]
+    }],
+    "status": "OK"
+}
