@@ -1,5 +1,5 @@
 ## Aplicacion    del    clima
-Recuerde ejecutar ```npm install``` para las libreria
+Recuerde ejecutar ```npm install``` para las librerias
  
 
  ## Ejemplo :
